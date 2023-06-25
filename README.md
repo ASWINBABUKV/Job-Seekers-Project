@@ -1,5 +1,8 @@
+# ARE YOU SEARCHING FOR A JOB??
+![Screenshot_2](https://github.com/ASWINBABUKV/JOB_SEEKERS-PROJECT/assets/137376192/2f35c376-0ee8-4855-9237-bf12d336e5f5)
+
 # INTELLIHIRE
-Intellihire is a job finder website which helps job seekers to provide their skills and get their predicted job posts.
+Intellihire is a job finder website that helps job seekers to provide their skills and get their predicted job posts.
 
 ## Features
 - Discover your job based on your skills
